@@ -72,7 +72,7 @@ const About = () => {
                             <data.icon />
                           </div>
                           <h3 className='text-gray-50 text-xl font-semibold
-                          mb3'>{data.title}</h3>
+                          mb-2'>{data.title}</h3>
                           <p className='text-gray-300'>{data.description}</p>
                       </div>
                   ))

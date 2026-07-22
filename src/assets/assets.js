@@ -121,9 +121,9 @@ export const projects = [
     title: "Blog Website",
     description: "...article publishing platform, and engaging user experience.",
     image: projectImg5,
-    tech: ["Wordpress"],
+    tech: ["React", "OpenAI API", "Cloudinary", "Firebase", "Tailwind CSS"],
     icons: [FaReact, FaNodeJs, FaDatabase ],
-    demo: "#",
+    demo: "https://tech9ja.netlify.app/",
     code: "#",
   },
   {

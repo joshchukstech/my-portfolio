@@ -139,8 +139,8 @@ const Contact = () => {
               <div>
                 <h3 className='text-gray-50 text-lg font-semibold
                 mb-2'>Whatsapp</h3>
-                <p className='text-gray-400'>+234 703 302 2305</p>
                 <p className='text-gray-400'>+234 915 199 5031</p>
+                <p className='text-gray-400'>+234 703 302 2305</p>
               </div>
             </div>
 
@@ -148,16 +148,14 @@ const Contact = () => {
               <h3 className='text-gray-50 text-lg font-semibold mb-4'>Follow 
                 Me</h3>
               <div className='flex space-x-4'>
-                <a href="https://github.com/Josh161tech" className='w-12 h-12 rounded-full
+                <a href="https://github.com/joshchukstech" className='w-12 h-12 rounded-full
                 bg-dark-300 flex items-center justify-center
                 text-blue hover:bg-black hover:text-white
                 transition duration-300'>
                   <FaGithub />
                 </a>
 
-                <a href="https://www.linkedin.com/in/joshua-ezugwu-b-eng
-                -167909241?utm_source=share&utm_campaign=
-                share_via&utm_content=profile&utm_medium=android_app"
+                <a href="https://www.linkedin.com/in/joshua-ezugwu-gmnse-167909241/"
                  className='w-12 h-12 rounded-full
                 bg-dark-300 flex items-center justify-center
                 text-blue hover:bg-blue hover:text-white
@@ -179,7 +177,7 @@ const Contact = () => {
                   <FaFacebook />
                 </a>
 
-                <a href="https://wa.me/2347033022305" className='w-12 h-12 rounded-full
+                <a href="https://wa.me/2349151995031" className='w-12 h-12 rounded-full
                 bg-dark-300 flex items-center justify-center
                 text-green-500 hover:bg-white hover:text-green-500
                 transition duration-300'>
